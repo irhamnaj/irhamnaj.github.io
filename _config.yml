@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Ds"
 title_separator          : "-"
-name                     : "YOUR NAME"
-description              : "DESCRIPTION"
-url                      : https://sample_website.github.io
+name                     : "Irham Najmudin"
+description              : "Data Science blog"
+url                      : https://irhamnaj.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # Default teaser image "assets/images/contents/main-cover.jpg"
@@ -106,21 +106,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "YOUR NAME"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "YOUR BIO"
-  location         : ""
-  email            : 
+  name             : "Irham Najmudin"
+  avatar           : "/assets/images/irham_n.jpg"
+  bio              : "Data analyst/Data Scientist"
+  location         : "Indonesia"
+  email            : irhamnajmudin3@gmail.com
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sample_website@gmail.com
+      url: mailto:irhamnajmudin3@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your_lkdin/"
+      url: "https://www.linkedin.com/in/irhamn/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/your_git/"
+      url: "https://github.com/irhamnaj/"
 
 # Site Footer
 footer:
