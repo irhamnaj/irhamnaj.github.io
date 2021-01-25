@@ -4,8 +4,7 @@ excerpt: ""
 author_profile: true
 layout : single
 header :
-    image: "assets/images/tokyo.jpg"
-    caption: "Photo credit: [**Hdqwalls**](https://hdqwalls.com/tokyo-cityscape-anime-4k-wallpaper)"
+    image: "assets/images/sawah.jpg"
 redirect_from: 
     - /about/
     - /about.html
