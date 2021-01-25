@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/irham_n.jpg"
   bio              : "Data analyst/Data Scientist"
   location         : "Indonesia"
-  email            : irhamnajmudin3@gmail.com
+  email            : 
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,6 +121,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/irhamnaj/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/Ham_happ"
 
 # Site Footer
 footer:
