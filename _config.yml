@@ -29,9 +29,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "discourse" # "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "irhamnaj.github.io" # TO SETUP ON DISQUS WEBSITE https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "irhamnaj-github-io" # TO SETUP ON DISQUS WEBSITE https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : your_twitter 
+  username               : Ham_happ 
 facebook:
   username               :
   app_id                 :
@@ -112,7 +112,7 @@ author:
   location         : "Indonesia"
   email            : 
   links:
-    - label: "Mail"
+    - label: "EMail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:irhamnajmudin3@gmail.com
     - label: "LinkedIn"
@@ -130,19 +130,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/your_twitter
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://twitter.com/Ham_happ
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/your_git/"
+      url: "https://github.com/irhamnaj/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your_lkdin/"
+      url: "https://www.linkedin.com/in/irhamn/"
 
 
 # Reading Files
