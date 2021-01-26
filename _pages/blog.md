@@ -14,13 +14,7 @@ layouts_gallery:
     image_path: /assets/images/nlp_short.png
 ---
 
-If you want to add a gallery (modify the links above and the images):
 
-{% include gallery id="layouts_gallery" class="full" layout="half"%}
-
-# Articles
-
-Or simply add articles:
 
 [SP - Voice Gender Detection web application](https://maelfabien.github.io/machinelearning/Speech11/#): How to extract relevant features and build a voice gender detection application using MFCC, GMMs and a provided dataset.
 
