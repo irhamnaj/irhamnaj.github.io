@@ -16,6 +16,4 @@ layouts_gallery:
 
 
 
-[SP - Voice Gender Detection web application](https://maelfabien.github.io/machinelearning/Speech11/#): How to extract relevant features and build a voice gender detection application using MFCC, GMMs and a provided dataset.
 
-[DL - How do Neural Networks learn?](https://maelfabien.github.io/deeplearning/feed/) : Dive into feedforward process and back-propagation.
