@@ -4,5 +4,7 @@ main:
     url: /blog/
   - title: "Projects"
     url: /portfolio/
+  - title: "Hackerrank"
+    url: https://www.hackerrank.com/irhamnajmudin3
   - title: "CV"
     url: /resume/
