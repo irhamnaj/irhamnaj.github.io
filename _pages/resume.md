@@ -14,7 +14,7 @@ classes: wide
 <br>
 
 # Education
-- B.S. in Physics, State Islamic University of Maulana Malik Ibrahim Malang, 2018
+- B.S. in Physics, State Islamic University of Maulana Malik Ibrahim Malang, 2013 - 2018
   - GPA 3.56 of 4.00
   - Summer student at Suranaree University of Technology and Rajamangala University of technology Thailand (Coursework: neutrino, hadron physics and analyzing neutrino data experiments using python)
   - Coursework: Core Statistics, mathematical physics (I,II and III), algorithm and programming(Python and Matlab), statistics for physics, physics computation, artificial intelligence, research methods, programming in physics theory(Python and Mathematica).
@@ -29,3 +29,6 @@ classes: wide
   - Top 5 Student
   - Cousework: cloud computing (AWS), statistics, python programming, data analyst using Pandas and NumPy, machine learning, Introduction to deep learning, Tensorflow
   
+# MOOCs
+- [Machine Learning with Python, IBM](https://courses.cognitiveclass.ai/certificates/1d7514d8524b441d91bd776a6d0fbd2f)
+- 
