@@ -38,5 +38,4 @@ classes: wide
 - [SQL Fundamentals](https://drive.google.com/file/d/1Cir-YHsHJ27DAKkOIP2oGhSdDmitT09C/view?usp=sharing)
 - [SQL Joins Relations](https://drive.google.com/file/d/1aQAZzOUjl8F-5ccMptglPYzwA5BAkDK1/view?usp=sharing)
 - [SQL and Database Advanced](https://drive.google.com/file/d/1iYfYd2aCnicN7pZenwORIl2Itp-bxQyJ/view?usp=sharing)
-
-- 
+- [Agile and Scrum for Development Project](https://img-certificate.ruangguru.com/IRHAM83289W6GARW/CERT-LKKH3IBS.jpg)
