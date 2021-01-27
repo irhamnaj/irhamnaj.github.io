@@ -21,7 +21,7 @@ classes: wide
   
 # Training
 - Data Science Fellowship Program, Iykra, 2020
-*IYKRA is a capability provider in data, technology and business areas for corporate and individual. IYKRA Data Fellowship Program creates Indonesia’s Data Professional by equipping the bright individuals with the knowledge, real project execution, soft skills development, and the capabilities that are needed to answer future challenges.*
+  - *IYKRA is a capability provider in data, technology and business areas for corporate and individual. IYKRA Data Fellowship Program creates Indonesia’s Data Professional by equipping the bright individuals with the knowledge, real project execution, soft skills development, and the capabilities that are needed to answer future challenges.*
   - Coursework: Data Visualization, Coding, Statistics, Machine Learning, Data Analysis, Business & Legal, Big Data Tools, Personal Branding and Data Professional Soft Skills
 
 - Fresh Graduate Academy (Machine Learning Specialization), Ministry of Communication and Informatics, 2019
