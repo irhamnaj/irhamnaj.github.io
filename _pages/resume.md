@@ -5,6 +5,10 @@ author_profile: true
 redirect_from:
   - /resume
 classes: wide
+toc: true
+toc_sticky: true
+sidebar:
+    nav: sidebar-sample
 ---
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer> window.open('https://platform.linkedin.com/badges/js/profile.js', '_blank');</script>
