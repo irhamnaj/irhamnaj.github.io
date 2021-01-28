@@ -12,6 +12,12 @@ classes: wide
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="irhamn"><a class="LI-simple-link" href='https://ch.linkedin.com/in/irhamn?trk=profile-badge'>Irham Najmudin</a></div>
 
 <br>
+## Experience
+### Data Science Fellowship Intern,[Iykra](https://iykra.com/datafellowship/),2020
+- Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (3 million records) of road traffic data
+- Applied statistical techniques to create traffic density metrics.
+- Utilized Python and Tableau to perform exploratory data analysis and visualization for traffic density monitoring and comparing traffic jams during the first 4 months of Covid-19 pandemic
+- Presented research findings
 
 ## Training
 ### Data Science Fellowship Program, [Iykra](https://iykra.com/datafellowship/), 2020
@@ -29,6 +35,7 @@ classes: wide
 ### B.S. in Physics, State Islamic University of Maulana Malik Ibrahim Malang, 2013 - 2018
 - GPA 3.56 of 4.00
 - Summer student at Suranaree University of Technology and Rajamangala University of technology Thailand (Coursework: neutrino, hadron physics and analyzing neutrino data experiments using python)
+- 3 years experience as laboratory assistant in various subjects such as physics experiments and modern physics. Has a job to supervise physics experiments and create some analysis from research findings using Excel.
 - Coursework: Core Statistics, mathematical physics (I,II and III), algorithm and programming(Python and Matlab), statistics for physics, physics computation, artificial intelligence, research methods, programming in physics theory(Python and Mathematica).
   
 ## MOOCs
