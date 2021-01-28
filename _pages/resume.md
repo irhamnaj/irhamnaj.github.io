@@ -14,7 +14,7 @@ classes: wide
 <br>
 
 
-## Experience
+📝## Experience
 ### Data Science Fellowship Intern,[Iykra](https://iykra.com/datafellowship/),2020
 - Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (3 million records) of road traffic data
 - Applied statistical techniques to create traffic density metrics.
