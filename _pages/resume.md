@@ -12,6 +12,8 @@ classes: wide
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="irhamn"><a class="LI-simple-link" href='https://ch.linkedin.com/in/irhamn?trk=profile-badge'>Irham Najmudin</a></div>
 
 <br>
+
+
 ## Experience
 ### Data Science Fellowship Intern,[Iykra](https://iykra.com/datafellowship/),2020
 - Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (3 million records) of road traffic data
