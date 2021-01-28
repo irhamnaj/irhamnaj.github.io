@@ -14,7 +14,10 @@ classes: wide
 <br>
 
 
-
+## Skills
+- Programming: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow), Big Data (Spark, Pyspark), SQL.
+- Software: Ms Excel, Tableau
+- Research Skill: Machine Learning(Linear Regression, Logistic Regression, Decision Tree, Random Forest, Xgboost), Time Series Analysis(ARIMA, SARIMA, LSTM), Deep Learning(RNN, CNN)
 
 ## Experience
 ### Data Science Fellowship Intern,[Iykra](https://iykra.com/datafellowship/),2020
